@@ -1,0 +1,10 @@
+inject
+memoryout
+leak   : memory, resource, GPU, CUP, information, event, process, heap, pipe, etc.
+nullpoint
+overflow
+permission
+
+
+´
+

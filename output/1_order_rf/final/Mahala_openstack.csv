@@ -1,0 +1,2 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Mahala,OpenStack,0,73,0,41428,0.0,0.0,0,0.0

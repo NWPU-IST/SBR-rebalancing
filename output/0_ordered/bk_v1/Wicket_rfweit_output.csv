@@ -1,0 +1,2 @@
+dataname,clf,TP,FN,TN,FP,pd,prec,f1,accuracy
+Wicket,RF,2,7,490,1,0.22,0.67,0.33,0.98

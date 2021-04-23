@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Base,Ambari,0,10,482,8,0.0,0.0,0,0.96
+Base,Camel,17,29,453,1,0.37,0.94,0.53,0.94
+Base,Derby,15,48,430,7,0.24,0.68,0.35,0.89
+Base,Wicket,1,8,491,0,0.11,1.0,0.2,0.98
+Base,Chromium,13,108,20830,19,0.11,0.41,0.17,0.99
+Base,OpenStack,43,30,41406,24,0.59,0.64,0.61,1.0

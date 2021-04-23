@@ -1,0 +1,11 @@
+dataname,approach,TP,FN,TN,FP,pd,prec,f1,accuracy
+chromium-g1,Base+LR,243,238,20438,51,0.51,0.83,0.63,0.99
+chromium-g1,Base+NB,316,165,19682,807,0.66,0.28,0.39,0.95
+chromium-g1,Base+MLP,260,221,20453,36,0.54,0.88,0.67,0.99
+chromium-g1,Base+SVM,299,182,20430,59,0.62,0.84,0.71,0.99
+chromium-g1,Base+RF,356,125,20462,27,0.74,0.93,0.82,0.99
+OpenStack,Base+LR,11,77,41370,45,0.12,0.2,0.15,1.0
+OpenStack,Base+NB,54,34,40571,844,0.61,0.06,0.11,0.98
+OpenStack,Base+MLP,29,59,41386,29,0.33,0.5,0.4,1.0
+OpenStack,Base+SVM,45,43,41377,38,0.51,0.54,0.53,1.0
+OpenStack,Base+RF,58,30,41394,21,0.66,0.73,0.69,1.0

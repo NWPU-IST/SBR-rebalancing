@@ -1,0 +1,3 @@
+dataname,approach,TP,FN,TN,FP,pd,prec,f1,accuracy,second,microsecond
+Chromium,CNN+RF,345,136,20435,54,0.72,0.86,0.78,0.99,803,475710
+OpenStack,CNN+RF,54,34,41356,59,0.61,0.48,0.54,1.0,3438,490935

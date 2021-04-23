@@ -1,0 +1,5 @@
+dataname,clf,pd,prec,f1,accuracy
+Ambari,RF,0.0,0.0,0,0.94
+Ambari,RF,0.0,0.0,0,0.92
+Ambari,RF,0.56,0.05,0.1,0.64
+.88

@@ -1,0 +1,11 @@
+dataname,approach,TP,FN,TN,FP,pd,prec,f1,accuracy
+Chromium,Farsec+LR,366,115,19551,938,0.76,0.28,0.41,0.95
+Chromium,Farsec+NB,331,150,18325,2164,0.69,0.13,0.22,0.89
+Chromium,Farsec+MLP,352,129,19492,997,0.73,0.26,0.38,0.95
+Chromium,Farsec+RF,379,102,20148,341,0.79,0.53,0.63,0.98
+Chromium,Farsec+SVM,370,111,19496,993,0.77,0.27,0.4,0.95
+OpenStack,Farsec+LR,27,61,40953,462,0.31,0.06,0.09,0.99
+OpenStack,Farsec+NB,50,38,39562,1853,0.57,0.03,0.05,0.95
+OpenStack,Farsec+MLP,33,55,40740,675,0.38,0.05,0.08,0.98
+OpenStack,Farsec+RF,58,30,41150,265,0.66,0.18,0.28,0.99
+OpenStack,Farsec+SVM,38,50,40724,691,0.43,0.05,0.09,0.98

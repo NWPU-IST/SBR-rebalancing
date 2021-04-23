@@ -1,0 +1,7 @@
+dataname,approach,TP,FN,TN,FP,pd,prec,f1,accuracy,second,microsecond
+Ambari,Mahakil+RF,2,8,482,8,0.2,0.2,0.2,0.97,1,122793
+Camel,Mahakil+RF,14,32,452,2,0.3,0.88,0.45,0.93,1,126798
+Derby,Mahakil+RF,10,53,433,4,0.16,0.71,0.26,0.89,1,43741
+Wicket,Mahakil+RF,8,15,477,0,0.35,1.0,0.52,0.97,0,973691
+Chromium,Mahakil+RF,292,189,20478,11,0.61,0.96,0.74,0.99,30,247276
+OpenStack,Mahakil+RF,17,71,41412,3,0.19,0.85,0.31,1.0,104,797554

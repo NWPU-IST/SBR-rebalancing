@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Adasyn,Ambari,2,8,472,18,0.2,0.1,0.13,0.95
+Adasyn,Camel,12,34,428,26,0.26,0.32,0.29,0.88
+Adasyn,Derby,16,47,384,53,0.25,0.23,0.24,0.8
+Adasyn,Wicket,2,7,484,7,0.22,0.22,0.22,0.97
+Adasyn,Chromium,17,104,20570,279,0.14,0.06,0.08,0.98
+Adasyn,OpenStack,10,63,38675,2755,0.14,0.0,0.01,0.93

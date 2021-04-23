@@ -1,0 +1,11 @@
+dataname,approach,pd,prec,f1,accuracy,AUC
+Chromium,Rose,0.7,0.35,0.47,0.96,0
+Chromium,Rose,0.69,0.36,0.47,0.96,0
+Chromium,Rose,0.69,0.35,0.47,0.96,0
+Chromium,Rose,0.69,0.36,0.48,0.97,0
+Chromium,Rose,0.69,0.36,0.47,0.96,0
+Chromium,Rose,0.69,0.37,0.48,0.97,0
+Chromium,Rose,0.71,0.36,0.48,0.96,0
+Chromium,Rose,0.7,0.37,0.49,0.97,0
+Chromium,Rose,0.7,0.37,0.48,0.97,0
+Chromium,Rose,0.69,0.37,0.49,0.97,0

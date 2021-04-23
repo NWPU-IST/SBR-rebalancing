@@ -1,0 +1,5 @@
+dataname,approach,TP,FN,TN,FP,pd,prec,f1,accuracy
+OpenStack,Adasyn+LR,29,59,37833,3582,0.33,0.01,0.02,0.91
+OpenStack,Adasyn+NB,36,52,37383,4032,0.41,0.01,0.02,0.9
+OpenStack,Adasyn+MLP,16,72,39937,1478,0.18,0.01,0.02,0.96
+OpenStack,Adasyn+RF,9,79,39692,1723,0.1,0.01,0.01,0.96

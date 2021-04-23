@@ -1,0 +1,6 @@
+dataname,clf,TP,FN,TN,FP,pd,prec,f1,accuracy
+OpenStack,LR,11,62,41391,37,0.15,0.23,0.18,1.0
+OpenStack,NB,41,32,39985,1443,0.56,0.03,0.05,0.96
+OpenStack,MLP,20,53,41393,35,0.27,0.36,0.31,1.0
+OpenStack,SVM,39,34,41380,48,0.53,0.45,0.49,1.0
+OpenStack,RF,47,26,41407,21,0.64,0.69,0.67,1.0

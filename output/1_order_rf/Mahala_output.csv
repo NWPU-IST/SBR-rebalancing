@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Mahala,Ambari,3,7,484,6,0.3,0.33,0.32,0.97
+Mahala,Camel,12,34,453,1,0.26,0.92,0.41,0.93
+Mahala,Derby,13,50,433,4,0.21,0.76,0.32,0.89
+Mahala,Wicket,1,8,491,0,0.11,1.0,0.2,0.98
+Mahala,Chromium,0,121,20849,0,0.0,0,0,0.99
+Mahala,OpenStack,16,57,41422,8,0.22,0.67,0.33,1.0

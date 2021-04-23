@@ -1,0 +1,6 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+SmoteBL,Ambari,2,8,473,17,0.2,0.11,0.14,0.95
+SmoteBL,Camel,16,30,437,17,0.35,0.48,0.41,0.91
+SmoteBL,Derby,16,47,415,22,0.25,0.42,0.32,0.86
+SmoteBL,Wicket,1,8,488,3,0.11,0.25,0.15,0.98
+SmoteBL,Chromium,2,119,20730,119,0.02,0.02,0.02,0.99

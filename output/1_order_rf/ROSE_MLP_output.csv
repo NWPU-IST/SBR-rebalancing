@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+ROSE,Ambari,2,8,472,18,0.2,0.1,0.13,0.95
+ROSE,Camel,10,36,435,19,0.22,0.34,0.27,0.89
+ROSE,Derby,13,50,419,18,0.21,0.42,0.28,0.86
+ROSE,Wicket,1,8,486,5,0.11,0.17,0.13,0.97
+ROSE,Chromium,27,94,20738,111,0.22,0.2,0.21,0.99
+ROSE,OpenStack,28,60,41222,193,0.32,0.13,0.18,0.99

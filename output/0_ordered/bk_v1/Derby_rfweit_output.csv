@@ -1,0 +1,2 @@
+dataname,clf,TP,FN,TN,FP,pd,prec,f1,accuracy
+Derby,RF,12,51,429,8,0.19,0.6,0.29,0.88

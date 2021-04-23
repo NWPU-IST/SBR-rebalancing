@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Smotebl,Ambari,3,7,477,13,0.3,0.19,0.23,0.96
+Smotebl,Camel,11,35,436,18,0.24,0.38,0.29,0.89
+Smotebl,Derby,15,48,418,19,0.24,0.44,0.31,0.87
+Smotebl,Wicket,1,8,489,2,0.11,0.33,0.17,0.98
+Smotebl,Chromium,4,117,20730,119,0.03,0.03,0.03,0.99
+Smotebl,OpenStack,8,65,39062,2368,0.11,0.0,0.01,0.94

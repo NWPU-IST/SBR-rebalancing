@@ -1,0 +1,7 @@
+approach,dataname,TP,FN,TN,FP,pd,prec,f1,accuracy
+Smotenn,Ambari,4,6,468,22,0.4,0.15,0.22,0.94
+Smotenn,Camel,17,29,409,45,0.37,0.27,0.31,0.85
+Smotenn,Derby,18,45,381,56,0.29,0.24,0.26,0.8
+Smotenn,Wicket,2,7,484,7,0.22,0.22,0.22,0.97
+Smotenn,Chromium,18,103,20432,417,0.15,0.04,0.06,0.98
+Smotenn,OpenStack,8,80,38733,2682,0.09,0.0,0.01,0.93
