@@ -34,14 +34,15 @@ import farsec_text_filter as farsec
 
 #data_name = 'wicket'
 imb_approach = 'Adasyn' # Base, Farsec, Smotebl,Adasyn, NM, CNN, ROSE, Mahala
-data_names =['Chromium'] #,'Ambari','Camel','Derby','Wicket','Chromium','OpenStack'
+data_names =['Ambari'] #,'Ambari','Camel','Derby','Wicket','Chromium','OpenStack'
 
-#output = '../output/0_data_quality/'+ imb_approach+ '_RF_output.csv'   
-output = '../output/0_data_quality/'+ imb_approach+ '_RF_original_output.csv'       
-csv_file = open(output, "w", newline='')
-writer = csv.writer(csv_file, delimiter=',')
-writer.writerow(['approach', 'dataname', 'pd', 'prec', 'f1', 'accuracy'])
+
 for data_name in data_names:
+    #output = '../output/0_data_quality/'+ imb_approach+ '_RF_output.csv'   
+    output = '../output/0_data_quality/'+ imb_approach+ '_RF_original_output.csv'       
+    csv_file = open(output, "w", newline='')
+    writer = csv.writer(csv_file, delimiter=',')
+    writer.writerow(['approach', 'dataname', 'pd', 'prec', 'f1', 'accuracy'])
     for i in range(50):
     #    train_csv = '../input/ordered/'+ data_name +'.csv'
         train_csv = '../input/ordered/'+ data_name +'.csv'
